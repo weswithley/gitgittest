@@ -2,4 +2,3 @@ feature
 release
 hotfix
 branch1
-rebase
